@@ -9,10 +9,12 @@
 * bcryptjs
 * morgan
 * cookie-parse
+
 # install back-end 
 * yarn
-* yarn
+* npm Install 
+* pnpm install 
 
 # inicializar back-end 
-* yarn 
+* yarn dev
 * host: ```http:localhost:4000```
