@@ -8,7 +8,7 @@
 * nodemon 
 * bcryptjs
 * morgan
-* cookie-parse
+* cookie-parser
 
 # install back-end 
 * yarn
