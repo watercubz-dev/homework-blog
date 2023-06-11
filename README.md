@@ -17,4 +17,4 @@
 
 # inicializar back-end 
 * yarn dev
-* host: ```http:localhost:4000```
+* host: ```http://localhost:4000```
