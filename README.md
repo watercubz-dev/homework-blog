@@ -9,6 +9,7 @@
 * bcryptjs
 * morgan
 * cookie-parser
+* axiós 
 
 # dependencias front-end 
 * tailwind css 
