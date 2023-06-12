@@ -12,19 +12,20 @@
 
 # dependencias front-end 
 * tailwind css 
-* axios: ^1.4.0,
+* axios
 
-* dayjs: ^1.11.8,
+* dayjs
 
-* js-cookie: ^3.0.5,
+* js-cookie
 
-*  react: ^18.2.0
+* react
 
-*  react-dom: ^18.2.0
+* react-dom
 
-*  react-hook-form: ^7.44.3
+* react-hook-form
+
 # inicializar front-end 
-* ```cd/client```
+* ```cd/homework-blog/client```
 * yarn dev
 * host:```http://localhost:5173```
 
