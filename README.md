@@ -9,7 +9,10 @@
 * bcryptjs
 * morgan
 * cookie-parser
-
+# dependencias front-end 
+* tailwind css 
+* axiós 
+* 
 # install back-end 
 * yarn
 * npm Install 
