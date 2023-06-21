@@ -18,6 +18,7 @@ export const AuthProvider = ({ children }) => {
   const [errors, setErrors] = useState([]);
   const [loading, setLoading] = useState(true);
 
+
   const singup = async (user) => {
     try {
       const res = await registerRequest(user);
@@ -108,3 +109,4 @@ const Logout = async () => {
     </AuthContext.Provider>
   );
 };
+
